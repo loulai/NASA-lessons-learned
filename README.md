@@ -1,14 +1,20 @@
 # Lessons Learned
 ### A NASA Datanauts project
+## Project Description
 
-### Collaborators: 
+## Tools Used
+R, RStudio, Python
 
-[@Lilian-Carvalho](https://github.com/Lilian-Carvalho)
+## Collaborators: 
 
-[@reshamas](https://github.com/reshamas)
+Caroline Williams, [@ckwms63](https://github.com/ckwms63)
 
-[@lgellis](https://github.com/lgellis)
+Hatice Elif Yüksel, [@elifhyuksel](https://github.com/elifhyuksel)
 
-[@ckwms63](https://github.com/ckwms63)
+Laura Ellis, [@lgellis](https://github.com/lgellis)
 
-[@elifhyuksel](https://github.com/elifhyuksel)
+Lilian Carvalho, [@Lilian-Carvalho](https://github.com/Lilian-Carvalho)
+
+Louise (Lou) Lai, [@loulai](https://github.com/loulai)
+
+Reshama Shaikh, [@reshamas](https://github.com/reshamas)
