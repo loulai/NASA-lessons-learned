@@ -1,5 +1,5 @@
 # Lessons Learned
-*A NASA Datanauts project*
+###### A NASA Datanauts project
 
 ## Project Description
 
