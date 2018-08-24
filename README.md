@@ -1,11 +1,12 @@
 # Lessons Learned
-### A NASA Datanauts project
+#### A NASA Datanauts project
+
 ## Project Description
 
 ## Tools Used
 R, RStudio, Python
 
-## Collaborators: 
+## Collaborators
 
 Caroline Williams, [@ckwms63](https://github.com/ckwms63)
 
